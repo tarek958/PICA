@@ -14,8 +14,8 @@ Les entreprises sont confrontées à des menaces de cybersécurité de plus en p
 - **Outils**: Nmap, OpenVAS, Nessus, Metasploit, Burp Suite.
 - **Ressources**:
   - [Nmap Documentation](https://nmap.org/book/man.html)
-  - [OpenVAS Documentation]([https://www.greenbone.net/en/documentation/](https://www.greenbone.net/en/documents/))
-  -  [OpenVAS Scanner Tool ]([https://www.greenbone.net/en/documentation/](https://github.com/greenbone/openvas-scanner))
+  - [OpenVAS Documentation](https://www.greenbone.net/en/documents/)
+  -  [OpenVAS Scanner Tool ](https://github.com/greenbone/openvas-scanner)
   - [Nessus Documentation](https://docs.tenable.com/nessus/)
   - [Metasploit Documentation](https://docs.rapid7.com/metasploit/)
   - [Burp Suite Documentation](https://portswigger.net/burp/documentation)
