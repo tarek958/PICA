@@ -1,16 +1,3 @@
-# Plateforme Intégrée de Cybersécurité Automatisée (PICA)
-
-## Contexte
-Les entreprises sont confrontées à des menaces de cybersécurité de plus en plus sophistiquées. PICA est une plateforme intégrée qui combine des techniques de pentesting, de détection automatisée via l'IA, de gestion d'incidents et de lutte contre la fraude pour répondre à ces défis.
-
-## Objectifs
-- Automatiser les tests d'intrusion (pentesting) pour identifier les vulnérabilités.
-- Détecter les menaces de phishing et de malware en temps réel grâce à l’IA.
-- Gérer les incidents de sécurité de manière proactive.
-- Lutter contre les activités frauduleuses via des règles de détection d’anomalies.
-- Offrir une interface utilisateur interactive en **React** et un backend robuste avec **Flask**.
-
-## Fonctionnalités Principales
 
 ### 1. Pentesting Automatisé et Manuel
 
